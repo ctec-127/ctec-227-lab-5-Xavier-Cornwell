@@ -1,0 +1,31 @@
+.errors{
+    width:400px;
+    background:maroon;
+    color:white;
+    font-size:18px;
+    margin: 0 auto;
+    padding:50px;
+}
+body{
+    width: 100%;
+    font-size:20px;
+
+
+}
+
+.container{
+    background-color:coral;
+    width:300px;
+    padding:30px;
+    margin:0 auto;
+    margin-top:10px;
+}
+
+a{
+    display:block;
+    margin:0 auto;
+    background-color:blue;
+    padding:10px;
+    color:white;
+    width:300px;
+}
